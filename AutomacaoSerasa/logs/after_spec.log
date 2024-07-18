@@ -1,4 +1,4 @@
-after_spec detalhes: {
+2024-07-18T21:06:12.805Z - after_spec detalhes: {
   "spec": {
     "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
     "fileExtension": ".js",
@@ -15,9 +15,9 @@ after_spec detalhes: {
       "passes": 4,
       "pending": 0,
       "failures": 0,
-      "start": "2024-07-18T19:33:29.604Z",
-      "end": "2024-07-18T19:33:34.116Z",
-      "duration": 4512,
+      "start": "2024-07-18T21:06:09.323Z",
+      "end": "2024-07-18T21:06:12.801Z",
+      "duration": 3478,
       "testsRegistered": 4,
       "passPercent": 100,
       "pendingPercent": 0,
@@ -35,13 +35,13 @@ after_spec detalhes: {
       "relative": "cypress\\e2e\\trello_spec.cy.js"
     },
     "stats": {
-      "duration": 4513,
-      "endedAt": "2024-07-18T19:33:34.114Z",
+      "duration": 3480,
+      "endedAt": "2024-07-18T21:06:12.799Z",
       "failures": 0,
       "passes": 4,
       "pending": 0,
       "skipped": 0,
-      "startedAt": "2024-07-18T19:33:29.601Z",
+      "startedAt": "2024-07-18T21:06:09.319Z",
       "suites": 1,
       "tests": 4
     },
@@ -53,7 +53,7 @@ after_spec detalhes: {
           }
         ],
         "displayError": null,
-        "duration": 1177,
+        "duration": 627,
         "state": "passed",
         "title": [
           "Trello API Test Suite",
@@ -67,7 +67,7 @@ after_spec detalhes: {
           }
         ],
         "displayError": null,
-        "duration": 405,
+        "duration": 673,
         "state": "passed",
         "title": [
           "Trello API Test Suite",
@@ -81,7 +81,7 @@ after_spec detalhes: {
           }
         ],
         "displayError": null,
-        "duration": 1209,
+        "duration": 537,
         "state": "passed",
         "title": [
           "Trello API Test Suite",
@@ -95,223 +95,7 @@ after_spec detalhes: {
           }
         ],
         "displayError": null,
-        "duration": 1709,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve excluir um board"
-        ]
-      }
-    ],
-    "video": null
-  }
-}
-after_spec detalhes: {
-  "spec": {
-    "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
-    "fileExtension": ".js",
-    "fileName": "trello_spec",
-    "name": "trello_spec.cy.js",
-    "relative": "cypress\\e2e\\trello_spec.cy.js"
-  },
-  "results": {
-    "error": null,
-    "reporter": "mochawesome",
-    "reporterStats": {
-      "suites": 1,
-      "tests": 4,
-      "passes": 4,
-      "pending": 0,
-      "failures": 0,
-      "start": "2024-07-18T19:37:44.262Z",
-      "end": "2024-07-18T19:37:47.851Z",
-      "duration": 3589,
-      "testsRegistered": 4,
-      "passPercent": 100,
-      "pendingPercent": 0,
-      "other": 0,
-      "hasOther": false,
-      "skipped": 0,
-      "hasSkipped": false
-    },
-    "screenshots": [],
-    "spec": {
-      "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
-      "fileExtension": ".js",
-      "fileName": "trello_spec",
-      "name": "trello_spec.cy.js",
-      "relative": "cypress\\e2e\\trello_spec.cy.js"
-    },
-    "stats": {
-      "duration": 3590,
-      "endedAt": "2024-07-18T19:37:47.850Z",
-      "failures": 0,
-      "passes": 4,
-      "pending": 0,
-      "skipped": 0,
-      "startedAt": "2024-07-18T19:37:44.260Z",
-      "suites": 1,
-      "tests": 4
-    },
-    "tests": [
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 685,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve criar um board"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 359,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve cadastrar um card"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 500,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve excluir um card"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 2032,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve excluir um board"
-        ]
-      }
-    ],
-    "video": null
-  }
-}
-after_spec detalhes: {
-  "spec": {
-    "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
-    "fileExtension": ".js",
-    "fileName": "trello_spec",
-    "name": "trello_spec.cy.js",
-    "relative": "cypress\\e2e\\trello_spec.cy.js"
-  },
-  "results": {
-    "error": null,
-    "reporter": "mochawesome",
-    "reporterStats": {
-      "suites": 1,
-      "tests": 4,
-      "passes": 4,
-      "pending": 0,
-      "failures": 0,
-      "start": "2024-07-18T19:40:17.697Z",
-      "end": "2024-07-18T19:40:20.904Z",
-      "duration": 3207,
-      "testsRegistered": 4,
-      "passPercent": 100,
-      "pendingPercent": 0,
-      "other": 0,
-      "hasOther": false,
-      "skipped": 0,
-      "hasSkipped": false
-    },
-    "screenshots": [],
-    "spec": {
-      "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
-      "fileExtension": ".js",
-      "fileName": "trello_spec",
-      "name": "trello_spec.cy.js",
-      "relative": "cypress\\e2e\\trello_spec.cy.js"
-    },
-    "stats": {
-      "duration": 3208,
-      "endedAt": "2024-07-18T19:40:20.902Z",
-      "failures": 0,
-      "passes": 4,
-      "pending": 0,
-      "skipped": 0,
-      "startedAt": "2024-07-18T19:40:17.694Z",
-      "suites": 1,
-      "tests": 4
-    },
-    "tests": [
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 647,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve criar um board"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 336,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve cadastrar um card"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 584,
-        "state": "passed",
-        "title": [
-          "Trello API Test Suite",
-          "Deve excluir um card"
-        ]
-      },
-      {
-        "attempts": [
-          {
-            "state": "passed"
-          }
-        ],
-        "displayError": null,
-        "duration": 1628,
+        "duration": 1629,
         "state": "passed",
         "title": [
           "Trello API Test Suite",

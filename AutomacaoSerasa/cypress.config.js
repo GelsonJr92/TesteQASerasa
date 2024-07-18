@@ -12,6 +12,11 @@ function ensureDirectoryExistence(dir) {
   }
 }
 
+function getCurrentDateTime() {
+  const now = new Date();
+  return now.toLocaleString();
+}
+
 module.exports = defineConfig({
   e2e: {
     setupNodeEvents(on, config) {
@@ -46,7 +51,8 @@ module.exports = defineConfig({
 
       const logEvent = (event, details) => {
         const logFilePath = path.join(logsDir, `${event}.log`);
-        fs.writeFileSync(logFilePath, `Detalhes do evento ${event}: ${JSON.stringify(details, null, 2)}\n`, { flag: 'a' });
+        const logMessage = `[${getCurrentDateTime()}] Detalhes do evento ${event}: ${JSON.stringify(details, null, 2)}\n`;
+        fs.writeFileSync(logFilePath, logMessage);
         console.log(`${event}: `, JSON.stringify(details, null, 2));
       };
 
@@ -76,15 +82,15 @@ module.exports = defineConfig({
         cpus: os.cpus().map(cpu => cpu.model).join(', ')
       };
 
-      fs.writeFileSync(path.join(logsDir, 'environment.log'), `Informações do ambiente: ${JSON.stringify(environmentInfo, null, 2)}\n`, { flag: 'a' });
+      fs.writeFileSync(path.join(logsDir, 'environment.log'), `[${getCurrentDateTime()}] Informações do ambiente: ${JSON.stringify(environmentInfo, null, 2)}\n`);
 
-      // Informações de CI/CD
+      // Informações de CI/CD caso necessário
       const ciInfo = {
         ci: process.env.CI,
         branch: process.env.GIT_BRANCH,
         commit: process.env.GIT_COMMIT
       };
-      fs.writeFileSync(path.join(logsDir, 'ci_info.log'), `Informações de CI/CD: ${JSON.stringify(ciInfo, null, 2)}\n`, { flag: 'a' });
+      fs.writeFileSync(path.join(logsDir, 'ci_info.log'), `[${getCurrentDateTime()}] Informações de CI/CD: ${JSON.stringify(ciInfo, null, 2)}\n`);
     },
     baseUrl: 'https://api.trello.com/1',
     supportFile: 'cypress/support/e2e.js',

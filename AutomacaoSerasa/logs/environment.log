@@ -1,81 +1,9 @@
-Informações do ambiente: {
+[18/07/2024, 18:55:19] Informações do ambiente: {
   "navegador": "auto",
   "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
   "arquitetura": "x64",
   "versao_node": "v22.5.0",
   "memoria_total": "63.21 GB",
-  "memoria_livre": "38.64 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "38.56 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "38.52 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "39.07 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "39.05 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "41.93 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "42.16 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "41.95 GB",
-  "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
-}
-Informações do ambiente: {
-  "navegador": "auto",
-  "sistema_operacional": "Windows_NT 10.0.22631 (win32)",
-  "arquitetura": "x64",
-  "versao_node": "v22.5.0",
-  "memoria_total": "63.21 GB",
-  "memoria_livre": "42.09 GB",
+  "memoria_livre": "41.55 GB",
   "cpus": "AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          , AMD Ryzen 9 7950X3D 16-Core Processor          "
 }
