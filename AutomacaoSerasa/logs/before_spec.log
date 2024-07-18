@@ -1,0 +1,33 @@
+before_spec detalhes: {
+  "fileExtension": ".js",
+  "baseName": "trello_spec.cy.js",
+  "fileName": "trello_spec",
+  "specFileExtension": ".cy.js",
+  "relativeToCommonRoot": "trello_spec.cy.js",
+  "specType": "integration",
+  "name": "trello_spec.cy.js",
+  "relative": "cypress\\e2e\\trello_spec.cy.js",
+  "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js"
+}
+before_spec detalhes: {
+  "fileExtension": ".js",
+  "baseName": "trello_spec.cy.js",
+  "fileName": "trello_spec",
+  "specFileExtension": ".cy.js",
+  "relativeToCommonRoot": "trello_spec.cy.js",
+  "specType": "integration",
+  "name": "trello_spec.cy.js",
+  "relative": "cypress\\e2e\\trello_spec.cy.js",
+  "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js"
+}
+before_spec detalhes: {
+  "fileExtension": ".js",
+  "baseName": "trello_spec.cy.js",
+  "fileName": "trello_spec",
+  "specFileExtension": ".cy.js",
+  "relativeToCommonRoot": "trello_spec.cy.js",
+  "specType": "integration",
+  "name": "trello_spec.cy.js",
+  "relative": "cypress\\e2e\\trello_spec.cy.js",
+  "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js"
+}
