@@ -231,3 +231,1172 @@ Detalhes do evento depois_do_teste: {
   "totalSuites": 1,
   "totalTests": 4
 }
+Detalhes do evento depois_do_teste: {
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "118.0.5993.159",
+  "config": {
+    "browser": null,
+    "baseUrl": "https://api.trello.com/1",
+    "supportFile": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\support\\e2e.js",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "reports",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "charts": true,
+      "reportTitle": "Relatório Detalhado de Testes",
+      "reportPageTitle": "Relatório de Testes API",
+      "autoOpen": true
+    },
+    "projectRoot": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "projectName": "AutomacaoSerasa",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\downloads",
+    "env": {
+      "TRELLO_API_KEY": "70f673c74728c19ca18b8f72be278653",
+      "TRELLO_API_TOKEN": "ATTA19bdc328c402de0ea67f38b3d51077ea10fd295b591c652b1e536919c2ce6b170973874F"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalFetchPolyfill": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "experimentalSkipDomainInjection": null,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "fixturesFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 52235,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.5.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "version": "126.0.6478.183"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "126.0.2592.102"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 118,
+        "name": "electron",
+        "path": "",
+        "version": "118.0.5993.159"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\Pc\\AppData\\Local\\Cypress\\Cache\\13.13.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "13.13.1",
+    "testingType": "e2e",
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "13.13.1",
+  "endedTestsAt": "2024-07-18T19:46:46.998Z",
+  "osName": "win32",
+  "osVersion": "10.0.22631",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "mochawesome",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 4,
+        "passes": 4,
+        "pending": 0,
+        "failures": 0,
+        "start": "2024-07-18T19:46:43.696Z",
+        "end": "2024-07-18T19:46:46.999Z",
+        "duration": 3303,
+        "testsRegistered": 4,
+        "passPercent": 100,
+        "pendingPercent": 0,
+        "other": 0,
+        "hasOther": false,
+        "skipped": 0,
+        "hasSkipped": false
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
+        "fileExtension": ".js",
+        "fileName": "trello_spec",
+        "name": "trello_spec.cy.js",
+        "relative": "cypress\\e2e\\trello_spec.cy.js"
+      },
+      "stats": {
+        "duration": 3305,
+        "endedAt": "2024-07-18T19:46:46.998Z",
+        "failures": 0,
+        "passes": 4,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2024-07-18T19:46:43.693Z",
+        "suites": 1,
+        "tests": 4
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 795,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve criar um board"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 359,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve cadastrar um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 640,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1499,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um board"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2024-07-18T19:46:43.693Z",
+  "totalDuration": 3305,
+  "totalFailed": 0,
+  "totalPassed": 4,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 4
+}
+Detalhes do evento depois_do_teste: {
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "118.0.5993.159",
+  "config": {
+    "browser": null,
+    "baseUrl": "https://api.trello.com/1",
+    "supportFile": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\support\\e2e.js",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "reports",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "charts": true,
+      "reportTitle": "Relatório Detalhado de Testes",
+      "reportPageTitle": "Relatório de Testes API",
+      "autoOpen": true
+    },
+    "projectRoot": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "projectName": "AutomacaoSerasa",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\downloads",
+    "env": {
+      "TRELLO_API_KEY": "70f673c74728c19ca18b8f72be278653",
+      "TRELLO_API_TOKEN": "ATTA19bdc328c402de0ea67f38b3d51077ea10fd295b591c652b1e536919c2ce6b170973874F",
+      "TRELLO_WORKSPACE_ID": "6601bd7d2c892e2afd0230be"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalFetchPolyfill": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "experimentalSkipDomainInjection": null,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "fixturesFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 54142,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.5.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "version": "126.0.6478.183"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "126.0.2592.102"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 118,
+        "name": "electron",
+        "path": "",
+        "version": "118.0.5993.159"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\Pc\\AppData\\Local\\Cypress\\Cache\\13.13.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "13.13.1",
+    "testingType": "e2e",
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "13.13.1",
+  "endedTestsAt": "2024-07-18T20:07:14.772Z",
+  "osName": "win32",
+  "osVersion": "10.0.22631",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "mochawesome",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 4,
+        "passes": 4,
+        "pending": 0,
+        "failures": 0,
+        "start": "2024-07-18T20:07:11.084Z",
+        "end": "2024-07-18T20:07:14.773Z",
+        "duration": 3689,
+        "testsRegistered": 4,
+        "passPercent": 100,
+        "pendingPercent": 0,
+        "other": 0,
+        "hasOther": false,
+        "skipped": 0,
+        "hasSkipped": false
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
+        "fileExtension": ".js",
+        "fileName": "trello_spec",
+        "name": "trello_spec.cy.js",
+        "relative": "cypress\\e2e\\trello_spec.cy.js"
+      },
+      "stats": {
+        "duration": 3691,
+        "endedAt": "2024-07-18T20:07:14.772Z",
+        "failures": 0,
+        "passes": 4,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2024-07-18T20:07:11.081Z",
+        "suites": 1,
+        "tests": 4
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 683,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve criar um board"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 721,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve cadastrar um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 553,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1720,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um board"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2024-07-18T20:07:11.081Z",
+  "totalDuration": 3691,
+  "totalFailed": 0,
+  "totalPassed": 4,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 4
+}
+Detalhes do evento depois_do_teste: {
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "118.0.5993.159",
+  "config": {
+    "browser": null,
+    "baseUrl": "https://api.trello.com/1",
+    "supportFile": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\support\\e2e.js",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "reports",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "charts": true,
+      "reportTitle": "Relatório Detalhado de Testes",
+      "reportPageTitle": "Relatório de Testes API",
+      "autoOpen": true
+    },
+    "projectRoot": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "projectName": "AutomacaoSerasa",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\downloads",
+    "env": {
+      "TRELLO_API_KEY": "70f673c74728c19ca18b8f72be278653",
+      "TRELLO_API_TOKEN": "ATTA19bdc328c402de0ea67f38b3d51077ea10fd295b591c652b1e536919c2ce6b170973874F",
+      "TRELLO_WORKSPACE_ID": "6601bd7d2c892e2afd0230be"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalFetchPolyfill": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "experimentalSkipDomainInjection": null,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "fixturesFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 54242,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.5.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "version": "126.0.6478.183"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "126.0.2592.102"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 118,
+        "name": "electron",
+        "path": "",
+        "version": "118.0.5993.159"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\Pc\\AppData\\Local\\Cypress\\Cache\\13.13.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "13.13.1",
+    "testingType": "e2e",
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "13.13.1",
+  "endedTestsAt": "2024-07-18T20:07:59.449Z",
+  "osName": "win32",
+  "osVersion": "10.0.22631",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "mochawesome",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 4,
+        "passes": 4,
+        "pending": 0,
+        "failures": 0,
+        "start": "2024-07-18T20:07:55.905Z",
+        "end": "2024-07-18T20:07:59.451Z",
+        "duration": 3546,
+        "testsRegistered": 4,
+        "passPercent": 100,
+        "pendingPercent": 0,
+        "other": 0,
+        "hasOther": false,
+        "skipped": 0,
+        "hasSkipped": false
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
+        "fileExtension": ".js",
+        "fileName": "trello_spec",
+        "name": "trello_spec.cy.js",
+        "relative": "cypress\\e2e\\trello_spec.cy.js"
+      },
+      "stats": {
+        "duration": 3547,
+        "endedAt": "2024-07-18T20:07:59.449Z",
+        "failures": 0,
+        "passes": 4,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2024-07-18T20:07:55.902Z",
+        "suites": 1,
+        "tests": 4
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1015,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve criar um board"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 394,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve cadastrar um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 574,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1550,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um board"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2024-07-18T20:07:55.902Z",
+  "totalDuration": 3547,
+  "totalFailed": 0,
+  "totalPassed": 4,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 4
+}
+Detalhes do evento depois_do_teste: {
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "118.0.5993.159",
+  "config": {
+    "browser": null,
+    "baseUrl": "https://api.trello.com/1",
+    "supportFile": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\support\\e2e.js",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "reports",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "charts": true,
+      "reportTitle": "Relatório Detalhado de Testes",
+      "reportPageTitle": "Relatório de Testes API",
+      "autoOpen": true
+    },
+    "projectRoot": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "projectName": "AutomacaoSerasa",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\downloads",
+    "env": {
+      "TRELLO_API_KEY": "70f673c74728c19ca18b8f72be278653",
+      "TRELLO_API_TOKEN": "ATTA19bdc328c402de0ea67f38b3d51077ea10fd295b591c652b1e536919c2ce6b170973874F",
+      "TRELLO_WORKSPACE_ID": "6601bd7d2c892e2afd0230be"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalFetchPolyfill": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "experimentalSkipDomainInjection": null,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "fixturesFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 54364,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.5.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "version": "126.0.6478.183"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "126.0.2592.102"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 118,
+        "name": "electron",
+        "path": "",
+        "version": "118.0.5993.159"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\Pc\\AppData\\Local\\Cypress\\Cache\\13.13.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "13.13.1",
+    "testingType": "e2e",
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "13.13.1",
+  "endedTestsAt": "2024-07-18T20:09:20.337Z",
+  "osName": "win32",
+  "osVersion": "10.0.22631",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "mochawesome",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 4,
+        "passes": 4,
+        "pending": 0,
+        "failures": 0,
+        "start": "2024-07-18T20:09:17.330Z",
+        "end": "2024-07-18T20:09:20.339Z",
+        "duration": 3009,
+        "testsRegistered": 4,
+        "passPercent": 100,
+        "pendingPercent": 0,
+        "other": 0,
+        "hasOther": false,
+        "skipped": 0,
+        "hasSkipped": false
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
+        "fileExtension": ".js",
+        "fileName": "trello_spec",
+        "name": "trello_spec.cy.js",
+        "relative": "cypress\\e2e\\trello_spec.cy.js"
+      },
+      "stats": {
+        "duration": 3010,
+        "endedAt": "2024-07-18T20:09:20.337Z",
+        "failures": 0,
+        "passes": 4,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2024-07-18T20:09:17.327Z",
+        "suites": 1,
+        "tests": 4
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 640,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve criar um board"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 343,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve cadastrar um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 537,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1476,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um board"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2024-07-18T20:09:17.327Z",
+  "totalDuration": 3010,
+  "totalFailed": 0,
+  "totalPassed": 4,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 4
+}
+Detalhes do evento depois_do_teste: {
+  "browserName": "electron",
+  "browserPath": "",
+  "browserVersion": "118.0.5993.159",
+  "config": {
+    "browser": null,
+    "baseUrl": "https://api.trello.com/1",
+    "supportFile": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\support\\e2e.js",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "reports",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "charts": true,
+      "reportTitle": "Relatório Detalhado de Testes",
+      "reportPageTitle": "Relatório de Testes API",
+      "autoOpen": true
+    },
+    "projectRoot": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "projectName": "AutomacaoSerasa",
+    "configFile": "cypress.config.js",
+    "isTextTerminal": true,
+    "animationDistanceThreshold": 5,
+    "arch": "x64",
+    "blockHosts": null,
+    "chromeWebSecurity": true,
+    "clientCertificates": [],
+    "defaultCommandTimeout": 4000,
+    "downloadsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\downloads",
+    "env": {
+      "TRELLO_API_KEY": "70f673c74728c19ca18b8f72be278653",
+      "TRELLO_API_TOKEN": "ATTA19bdc328c402de0ea67f38b3d51077ea10fd295b591c652b1e536919c2ce6b170973874F",
+      "TRELLO_WORKSPACE_ID": "6601bd7d2c892e2afd0230be"
+    },
+    "execTimeout": 60000,
+    "experimentalCspAllowList": false,
+    "experimentalFetchPolyfill": false,
+    "experimentalInteractiveRunEvents": false,
+    "experimentalRunAllSpecs": false,
+    "experimentalMemoryManagement": false,
+    "experimentalModifyObstructiveThirdPartyCode": false,
+    "experimentalSkipDomainInjection": null,
+    "experimentalOriginDependencies": false,
+    "experimentalSourceRewriting": false,
+    "experimentalSingleTabRunMode": false,
+    "experimentalStudio": false,
+    "experimentalWebKitSupport": false,
+    "fileServerFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa",
+    "fixturesFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\fixtures",
+    "excludeSpecPattern": "*.hot-update.js",
+    "includeShadowDom": false,
+    "keystrokeDelay": 0,
+    "modifyObstructiveCode": true,
+    "numTestsKeptInMemory": 0,
+    "platform": "win32",
+    "pageLoadTimeout": 60000,
+    "port": 54573,
+    "projectId": null,
+    "redirectionLimit": 20,
+    "requestTimeout": 5000,
+    "resolvedNodePath": "C:\\Program Files\\nodejs\\node.exe",
+    "resolvedNodeVersion": "22.5.0",
+    "responseTimeout": 30000,
+    "retries": {
+      "runMode": 0,
+      "openMode": 0
+    },
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\screenshots",
+    "slowTestThreshold": 10000,
+    "scrollBehavior": "top",
+    "taskTimeout": 60000,
+    "testIsolation": true,
+    "trashAssetsBeforeRuns": true,
+    "userAgent": null,
+    "video": false,
+    "videoCompression": false,
+    "videosFolder": "C:\\Testes\\TesteQASerasa\\AutomacaoSerasa\\cypress\\videos",
+    "viewportHeight": 660,
+    "viewportWidth": 1000,
+    "waitForAnimations": true,
+    "watchForFileChanges": false,
+    "specPattern": "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    "browsers": [
+      {
+        "channel": "stable",
+        "displayName": "Chrome",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "version": "126.0.6478.183"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Edge",
+        "family": "chromium",
+        "majorVersion": "126",
+        "name": "edge",
+        "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "version": "126.0.2592.102"
+      },
+      {
+        "channel": "stable",
+        "displayName": "Electron",
+        "family": "chromium",
+        "majorVersion": 118,
+        "name": "electron",
+        "path": "",
+        "version": "118.0.5993.159"
+      }
+    ],
+    "cypressBinaryRoot": "C:\\Users\\Pc\\AppData\\Local\\Cypress\\Cache\\13.13.1\\Cypress\\resources\\app",
+    "hosts": null,
+    "isInteractive": true,
+    "version": "13.13.1",
+    "testingType": "e2e",
+    "cypressInternalEnv": "production"
+  },
+  "cypressVersion": "13.13.1",
+  "endedTestsAt": "2024-07-18T20:11:54.039Z",
+  "osName": "win32",
+  "osVersion": "10.0.22631",
+  "runs": [
+    {
+      "error": null,
+      "reporter": "mochawesome",
+      "reporterStats": {
+        "suites": 1,
+        "tests": 4,
+        "passes": 4,
+        "pending": 0,
+        "failures": 0,
+        "start": "2024-07-18T20:11:49.933Z",
+        "end": "2024-07-18T20:11:54.041Z",
+        "duration": 4108,
+        "testsRegistered": 4,
+        "passPercent": 100,
+        "pendingPercent": 0,
+        "other": 0,
+        "hasOther": false,
+        "skipped": 0,
+        "hasSkipped": false
+      },
+      "screenshots": [],
+      "spec": {
+        "absolute": "C:/Testes/TesteQASerasa/AutomacaoSerasa/cypress/e2e/trello_spec.cy.js",
+        "fileExtension": ".js",
+        "fileName": "trello_spec",
+        "name": "trello_spec.cy.js",
+        "relative": "cypress\\e2e\\trello_spec.cy.js"
+      },
+      "stats": {
+        "duration": 4109,
+        "endedAt": "2024-07-18T20:11:54.039Z",
+        "failures": 0,
+        "passes": 4,
+        "pending": 0,
+        "skipped": 0,
+        "startedAt": "2024-07-18T20:11:49.930Z",
+        "suites": 1,
+        "tests": 4
+      },
+      "tests": [
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1067,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve criar um board"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 356,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve cadastrar um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 936,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um card"
+          ]
+        },
+        {
+          "attempts": [
+            {
+              "state": "passed"
+            }
+          ],
+          "displayError": null,
+          "duration": 1736,
+          "state": "passed",
+          "title": [
+            "Trello API Test Suite",
+            "Deve excluir um board"
+          ]
+        }
+      ],
+      "video": null
+    }
+  ],
+  "startedTestsAt": "2024-07-18T20:11:49.930Z",
+  "totalDuration": 4109,
+  "totalFailed": 0,
+  "totalPassed": 4,
+  "totalPending": 0,
+  "totalSkipped": 0,
+  "totalSuites": 1,
+  "totalTests": 4
+}

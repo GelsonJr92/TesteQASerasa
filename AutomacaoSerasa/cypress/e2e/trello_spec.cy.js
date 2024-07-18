@@ -6,7 +6,7 @@ describe('Trello API Test Suite', () => {
     it('Deve criar um board', () => {
         cy.request({
             method: 'POST',
-            url: `https://api.trello.com/1/boards/?name=MyBoard&key=${Cypress.env('TRELLO_API_KEY')}&token=${Cypress.env('TRELLO_API_TOKEN')}`
+            url: `https://api.trello.com/1/boards/?name=MyBoard&idWorkspace=${Cypress.env('TRELLO_WORKSPACE_ID')}&key=${Cypress.env('TRELLO_API_KEY')}&token=${Cypress.env('TRELLO_API_TOKEN')}`
         }).then((response) => {
             expect(response.status).to.eq(200);
             boardId = response.body.id;
@@ -55,32 +55,32 @@ describe('Trello API Test Suite', () => {
     after(() => {
         // Tentativa de excluir o card
         if (cardId) {
-            cy.log('Attempting to delete card with ID:', cardId);
+            cy.log('Tentando excluir o card com ID:', cardId);
             cy.request({
                 method: 'DELETE',
                 url: `https://api.trello.com/1/cards/${cardId}?key=${Cypress.env('TRELLO_API_KEY')}&token=${Cypress.env('TRELLO_API_TOKEN')}`,
-                failOnStatusCode: false // Continue even if the request fails
+                failOnStatusCode: false // Continue mesmo se a requisição falhar
             }).then((response) => {
                 if (response.status !== 200) {
-                    cy.log(`Failed to delete card: ${response.body}`);
+                    cy.log(`Falha ao excluir o card: ${response.body}`);
                 } else {
-                    cy.log('Card successfully deleted.');
+                    cy.log('Card excluído com sucesso.');
                 }
             });
         }
 
         // Tentativa de excluir o board
         if (boardId) {
-            cy.log('Attempting to delete board with ID:', boardId);
+            cy.log('Tentando excluir o board com ID:', boardId);
             cy.request({
                 method: 'DELETE',
                 url: `https://api.trello.com/1/boards/${boardId}?key=${Cypress.env('TRELLO_API_KEY')}&token=${Cypress.env('TRELLO_API_TOKEN')}`,
-                failOnStatusCode: false // Continue even if the request fails
+                failOnStatusCode: false // Continue mesmo se a requisição falhar
             }).then((response) => {
                 if (response.status !== 200) {
-                    cy.log(`Failed to delete board: ${response.body}`);
+                    cy.log(`Falha ao excluir o board: ${response.body}`);
                 } else {
-                    cy.log('Board successfully deleted.');
+                    cy.log('Board excluído com sucesso.');
                 }
             });
         }
